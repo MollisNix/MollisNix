@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MollisNix
 - 👀 I’m interested in Front-End programming
 - 🌱 I’m currently learning JS. 
-- 💞️ I’m looking to collaborate on some mentor who could help me to do it more effective and prouctive.
+- 💞️ I’m looking to collaborate on some mentor who could help me to do it more effective and productive.
 - 📫 How to reach me : If you want to talk with me, you coul use several ways, 
 -                       at first - you could use the Telegramm @Nix_cold
 -                       the second - you could use the Mail - Vadim.Shebela@gmail.com,
